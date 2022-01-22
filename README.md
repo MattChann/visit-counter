@@ -1,6 +1,6 @@
 # visit counter
 
-Counts the number of visits a page recieves using a hidden image.
+Counts the number of visits a page receives using a hidden image.
 
 Used for counting github profile visits ([as seen here](https://github.com/MattChann)).
 
