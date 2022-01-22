@@ -1,0 +1,23 @@
+{
+  "name": "visit-counter",
+  "version": "1.0.0",
+  "description": "counts the number of visits a page gets through an image",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattChann/visit-counter.git"
+  },
+  "author": "mattchann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattChann/visit-counter/issues"
+  },
+  "homepage": "https://github.com/MattChann/visit-counter#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security"
+  }
+}
